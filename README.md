@@ -8,14 +8,22 @@ A Docker app, containing a python script, working on a sqlite database created w
 Simple download and extract, or clone.
 
 # Project
-│---Dockerfile
-│---README.Docker.md
-│---app.py
-│---compose.yaml
-│---data.db
-│---requirements.txt
-│---results.txt
-│---testing.ipynb
+    │---Dockerfile
+    
+    │---README.Docker.md
+    
+    │---app.py
+
+    │---compose.yaml
+    
+    │---data.db
+    
+    │---requirements.txt
+    
+    │---results.txt
+    
+    │---testing.ipynb
+    
 
 Dockerfile, README, are simple docker implements made by docker init.
 compose was also made by docker init, but changed to suit the project.
